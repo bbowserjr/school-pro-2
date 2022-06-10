@@ -1,0 +1,42 @@
+.img-cartoon{
+    width: 600px;
+margin: auto;
+display: block;
+}
+.center{
+    font-size: 80px;
+}
+.seed{
+    color: aquamarine;
+    font-size: 40px;
+  
+}
+.littles{
+    color: lawngreen;
+    font-size: 20px;
+}
+.ittles{
+    color: lawngreen;
+    font-size: 20px;
+}
+.big{
+    color: white;
+    font-size:80px
+     ;
+}
+.go{
+    color: white;
+    font-size: 60px;
+
+}
+.independent{
+    color: aquamarine;
+    font-size: 60px;
+}
+.exit{
+    color: whitesmoke;
+    font-size: 60px;
+}
+.extension{
+    width: 30px;
+}
